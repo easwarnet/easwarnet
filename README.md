@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @easwarnet
 - 👀 I’m interested in C, C++, Linux and Android
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 easwar
 
