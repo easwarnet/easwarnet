@@ -1,5 +1,5 @@
 - 👋 Page related to @easwarnet labs
-- 👀 I’m interested in C++, C, Java, Python, Linux and Android
+- 👀 Projects related to C++, C, Java, Python, Linux, Android and Gstreamer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 easwar
