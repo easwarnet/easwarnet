@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @easwarnet
+- 👋 Page related to @easwarnet labs
 - 👀 I’m interested in C++, C, Java, Python, Linux and Android
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
