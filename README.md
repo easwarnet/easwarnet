@@ -1,7 +1,6 @@
 - 👋 Page related to @easwarnet labs
 - 👀 Projects related to C++, C, Java, Python, Linux, Android and Gstreamer
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning FFMPEG
 - 📫 easwar
 
 <!---
